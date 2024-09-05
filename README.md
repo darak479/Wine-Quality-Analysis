@@ -1,7 +1,7 @@
-Wine Quality Prediction
+Wine Quality Prediction:
 This project explores a dataset of Portuguese wines to understand the factors that influence their quality. The goal is to analyze the chemical properties of the wines and build predictive models to classify them based on quality.
 
-Dataset
+Dataset:
 The dataset used in this project contains various physicochemical properties of the wines, including:
 
 Fixed Acidity
