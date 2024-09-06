@@ -14,9 +14,4 @@
 
   "While there's no replacement for actually tasting a wine, this kind of analysis can help us understand what goes into making a good wine. And maybe, in the future, it could even help us make better choices at       the store!"
 
-Key Points to Emphasize:
 
-Keep it relatable: Use everyday language, avoid jargon.
-Focus on the big picture: Don't get bogged down in technical details.
-Highlight the practical implications: What does this analysis mean for winemakers or consumers?
-End with a clear takeaway: What's the main message you want your audience to remember?
